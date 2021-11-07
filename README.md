@@ -3,7 +3,7 @@
 # Josué Eduardo Ramírez Calderón
 # 5390-15-6383
 
-# -> Video del funcionamiento y explicación
+# -> Video para ver || descargar, del funcionamiento y explicación
 https://drive.google.com/file/d/1MiHAWzRcwbobEnVsisMSl0MzeDzxEh7J/view?usp=sharing
 
 
